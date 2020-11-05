@@ -199,7 +199,8 @@ SCHEME_FILES = [
     'ccpp/physics/physics/GFS_cloud_diagnostics.F90'        ,
     'ccpp/physics/physics/GFS_rrtmgp_gfdlmp_pre.F90'        ,
     'ccpp/physics/physics/GFS_rrtmgp_zhaocarr_pre.F90'      ,
-    'ccpp/physics/physics/GFS_rrtmgp_sw_post.F90'
+    'ccpp/physics/physics/GFS_rrtmgp_sw_post.F90'           ,
+    'ccpp/physics/physics/rrtmgp_sampling.F90'
     ]
 
 # Default build dir, relative to current working directory,
