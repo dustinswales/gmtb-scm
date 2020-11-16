@@ -33,6 +33,7 @@
        lheatstrg      = .false.
        do_mynnedmf    = .true.
        do_mynnsfclay  = .false.
+       effr_in        = .true.
        random_clds    = .false.
        trans_trac     = .true.
        cnvcld         = .true.
