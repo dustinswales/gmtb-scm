@@ -11,5 +11,7 @@ default_tracers = {"SCM_GFS_v15p2":"tracers_GFS_v15p2.txt",
                    "SCM_GSD_RRTMGP":"tracers_gsd.txt",
                    "SCM_GFS_v15p2_YSU":"tracers_GFS_v15p2.txt",
                    "SCM_GFS_v15p2_saYSU":"tracers_GFS_v15p2.txt",
-                   "SCM_GFS_v15p2_ACM":"tracers_GFS_v15p2.txt"
+                   "SCM_GFS_v15p2_ACM":"tracers_GFS_v15p2.txt",
+                   "HAFS_v0_hwrf":"tracers_HAFS_v0_hwrf.txt",
+                   "HAFS_v0_hwrf_thompson":"tracers_HAFS_v0_hwrf_thompson.txt"
                   }
